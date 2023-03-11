@@ -1,7 +1,5 @@
 ### Hey! 👋
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
-
 ---
 
 - 👋 Hi, I’m @san-ghun
@@ -59,3 +57,6 @@ You can click the Preview link to take a look at your changes.
 --- -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&show_icons=true&include_all_commits=true) -->
+
+
+![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
