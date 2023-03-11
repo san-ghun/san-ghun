@@ -1,8 +1,8 @@
 ### Hey! 👋
 
----
-
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
+
+---
 
 - 👋 Hi, I’m @san-ghun
 - 👀 I’m interested in Swift
