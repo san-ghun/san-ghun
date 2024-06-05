@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 
 > Apes, Together, Strong.
 > 
-> Humans, Failures, Strong.
+> Humans, Think, Strong.
 >
-> Just Do Now.
+> Just Do, Failure, Stronger!
 
 ---
 
