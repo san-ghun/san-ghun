@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 > 
 > Humans, Think, Strong.
 >
-> Just Do, Fail, Stronger!
+> Doers, Failure, Stronger!
 
 ---
 
