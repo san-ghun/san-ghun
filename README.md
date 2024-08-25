@@ -1,70 +1,89 @@
-### Hey! 👋
+## whoami
 
----
+<pre>
+root@san-ghun:~$ whoami
 
-- 👋 Hi, I’m @san-ghun
-- 👀 I’m interested in Building Things
-- 🌱 I’m currently learning Frontend & Backend
-- 💞️ I’m looking to collaborate on Meaningful & Fun things
-<!-- - 📫 How to reach me ... -->
+───│ Hey, Devs and Geeks. ├─────▰▰▰
 
-<!---
-san-ghun/san-ghun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ A Programmer (who cannot make a living with code, yet?)
+├─▣ Like to dig into complex problems, make those simple, and find the executable yet more efficient solutions.
+├─▣ Interested in Building tools for my own usage, with Machine Learning & Web Scraping & CLI & API.
+├─▣ Looking to collaborate on Builidng Useful & Fun things
+├─▣ Currently, ...
+│ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun learning pointers dynamics in C.
+│ └─◈ working on Building an <a href="https://astro.build/">Astro</a> Theme, Setting up my HomeLab, and 42 Berlin projects.
+│
+└───────────────────────────────▰▰▰
 
----
+┌──┤ SKILLS ├───────▰▰▰
+│
+├─▣ <b>Programming Language</b>:
+│ └─◈ C, C++, Swift, Go (Golang), Python, JavaScript
+├─▣ <b>Web Technology</b>:
+│ └─◈ HTML, CSS, React, Node.js, Socket.IO, Astro
+├─▣ <b>Database</b>:
+│ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
+├─▣ <b>Platform</b>:
+│ └─◈ GitHub, AWS, CloudFlare, Apple Developer
+├─▣ <b>Tool</b>:
+│ └─◈ Git, Docker, VSCode, XCode, Warp
+├─▣ <b>Terminal</b>:
+│ └─◈ zsh, nvim, tmux
+│
+├─▣ Speak German, English Better, Korean Best.
+│
+└───────────────────────────────▰▰▰
 
-> Apes, Together, Strong.
-> 
-> Humans, Think, Strong.
->
-> Doers, Failure, Stronger!
+┌──┤ PUBLISHED PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/san-ghun/Home-Poker-Table/">Home Poker Table</a>
+├─◈ <a href="https://github.com/san-ghunJustThree/">Just Three</a>
+│
+└───────────────────────────────▰▰▰
+<!--
+┌──┤ 42 PROJECTS ├───────▰▰▰
+│
+├─◈ <a href="https://github.com/san-ghun">Piscine 2022</a>
+├─◈ <a href="https://github.com/san-ghun">libft</a>
+├─◈ <a href="https://github.com/san-ghun">get_next_line</a>
+├─◈ <a href="https://github.com/san-ghun">ft_printf</a>
+├─◈ <a href="https://github.com/san-ghun">Born2beRoot</a>
+├─◈ <a href="https://github.com/san-ghun">minitalk</a>
+├─◈ <a href="https://github.com/san-ghun">so_long</a>
+├─◈ <a href="https://github.com/san-ghun">push_swap</a>
+├─◈ <a href="https://github.com/san-ghun">Philosophers</a>
+├─◈ <a href="https://github.com/san-ghun">minishell</a>
+├─◈ <a href="https://github.com/san-ghun">Cub3D</a>
+├─◈ <a href="https://github.com/san-ghun">CPP_Modules</a>
+├─◈ <a href="https://github.com/san-ghun">Webserv</a>
+├─◈ <a href="https://github.com/san-ghun">ft_transcendence</a>
+│
+└───────────────────────────────▰▰▰
+ -->
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/san-ghun">LinkedIn</a>
+├─◈ <a href="https://x.com/microblobdotdev">Twitter|X</a>
+│
+└───────────────────────────────▰▰▰
+<!--
+┌──┤ COMMUNITY ├─────────▰▰▰
+│
+├─◈ If you need any help please join our community.
+├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
+│
+└───────────────────────────────▰▰▰-->
+</pre>
 
----
+| [![san-ghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) | [![san-ghun's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san-ghun&layout=compact&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) |
+|:-:|:-:|
 
-<!-- #### My Career
-
-- 🏢 2021.06 ~ 2021.08 Worked for [HumanITsolution](http://www.hmit.kr/Hmit/info)
-  - Worked as an iOS Developer
-  - Participated in iOS project [Visit Mokpo](https://apps.apple.com/us/app/visit-mokpo/id1581937408)
-- 🏢 2019.10 ~ 2020.12 Worked for [KM Healthcare Corp.](http://www.kmhealthcare.co.kr/company/dowoo.php)
-  - Worked in the IT department, Manager & Developer
-  - Ran a Company Business Automations project
-  - Participated in a Company Collaboration Tools project
-- 🏢 2019.07 ~ 2019.09 Worked for [Ars Praxia](https://www.arspraxia.com) 
-  - Worked in the Consulting department, Researcher & Developer
-  - Participated in the Sports asset evaluation for the first half of 2019, TBWA & Adidas
-  - Participated in the Semantic data analysis of Korean university communities
-- 🏢 2017.08 ~ 2017.12 Worked for [Fast campus](https://fastcampus.co.kr/info/about)
-  - Worked in Python Data Science School, Manager
-
---- -->
-
-#### Tech Stack 🖥
-
-- techniques that I usually use 🍎 <br>
- <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/-CoreData-blue?style=flat-square&logoColor=white"/> 
-- techniques that I've used at least once 🖌 <br>
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-4479A1?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logoColor=white"/>
-
----
-
-<!-- #### Know Me 💡
-
-- Post my studies steadily on blog 📝 <br>
-<a href="https://green1229.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://green1229.tistory.com"/></a>
-- Post daily my new knowledge and activities 📖 <br>
-[![TIL Blog Badge](http://img.shields.io/badge/-Today%20I%20Learned-181717?style=flat-square&logo=github&link=https://github.com/GREENOVER/Today-I-Learned/)](https://github.com/GREENOVER/Today-I-Learned)
-- Contact through online ✉️ <br>
-<a href="mailto:humains29@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=humains29@gmail.com"/></a>
-- Let me Introduce 🙋🏻‍♂️<br>
-<a href=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logoColor=white&link=https://www.notion.so/iOS-b4fe80a05c014a5295b336ad8aa3b134"/></a>
-
-
---- -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&show_icons=true&include_all_commits=true) -->
-
+```sh
+Apes:/$ ./together > Strong   
+Humans:/$ ./thinks > Strong
+Geeks:/$ ./failure > Stronger
+```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
