@@ -82,8 +82,8 @@ root@san-ghun:~$ whoami
 
 ```sh
 Apes:/$ ./together > Strong   
-Humans:/$ ./thinks > Strong
-Geeks:/$ ./failure > Stronger
+Humans:/$ ./thinks >> Strong
+Geeks:/$ ./failure >> Stronger
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
