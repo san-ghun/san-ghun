@@ -75,17 +75,18 @@ root@san-ghun:~# whoami
 ├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
 │
 └───────────────────────────────▰▰▰-->
+root@san-ghun:~# █
 </pre>
 
 | [![san-ghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) | [![san-ghun's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san-ghun&layout=compact&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) |
 |:-:|:-:|
 
 ```sh
-Apes:/# ./together > Strong   
-Humans:~# ./thinks >> Strong
-Geeks:~# ./failure >> Stronger
+Apes:/$ ./together > Strong   
+Humans:~$ ./thinks >> Strong
+Geeks:~$ ./failure >> Stronger
 
-root:~/dev# ./do | ./review >> Stronger
+root:~/dev$ ./do | ./review >> Stronger
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
