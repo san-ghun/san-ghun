@@ -30,7 +30,7 @@ root@san-ghun:~# whoami
 ├─▣ <b>Tool</b>:
 │ └─◈ Git, Docker, VSCode, XCode, Warp
 ├─▣ <b>Terminal</b>:
-│ └─◈ zsh, nvim, tmux
+│ └─◈ zsh, nvim, tmux, make, gdb
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
