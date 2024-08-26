@@ -10,9 +10,9 @@ root@san-ghun:~$ whoami
 ├─▣ A Programmer (who cannot make a living with code, yet?)
 ├─▣ Like to dig into complex problems, make those simple, and find the executable yet more efficient solutions.
 ├─▣ Interested in Building tools for my own usage, with Machine Learning & Web Scraping & CLI & API.
-├─▣ Looking to collaborate on Builidng Useful & Fun things
+├─▣ Looking to collaborate on Builidng Useful & Meaningful thingss
 ├─▣ Currently, ...
-│ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun learning pointers dynamics in C.
+│ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun massing with pointers in C.
 │ └─◈ working on Building an <a href="https://astro.build/">Astro</a> Theme, Setting up my HomeLab, and 42 Berlin projects.
 │
 └───────────────────────────────▰▰▰
