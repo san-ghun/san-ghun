@@ -86,7 +86,7 @@ Apes:/$ ./together > Strong
 Humans:~$ ./thinks >> Strong
 Geeks:~$ ./failure >> Stronger
 
-root:~/dev$ ./do | ./review >> Stronger
+root:/dev$ ./do --commit | ./review --failture | ./refactor --wtf >> Stronger
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
