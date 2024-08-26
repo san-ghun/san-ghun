@@ -1,7 +1,7 @@
 ## whoami
 
 <pre>
-root@san-ghun:~$ whoami
+root@san-ghun:~# whoami
 
 ───│ Hey, Devs and Geeks. ├─────▰▰▰
 
@@ -81,9 +81,11 @@ root@san-ghun:~$ whoami
 |:-:|:-:|
 
 ```sh
-Apes:/$ ./together > Strong   
-Humans:/$ ./thinks >> Strong
-Geeks:/$ ./failure >> Stronger
+Apes:/# ./together > Strong   
+Humans:~# ./thinks >> Strong
+Geeks:~# ./failure >> Stronger
+
+root:~/dev# ./do | ./review >> Stronger
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
