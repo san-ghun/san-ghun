@@ -80,7 +80,7 @@ root@san-ghun:~# whoami
 ┌──┤ COMMUNITY ├─────────▰▰▰
 │
 ├─◈ If you need any help please join our community.
-├─◈ <a href="https://discord.gg/vTvkDgsS6J">Discord Server</a>
+├─◈ <a href="https://discord.gg/">Discord Server</a>
 │
 └───────────────────────────────▰▰▰-->
 root@san-ghun:~# █
