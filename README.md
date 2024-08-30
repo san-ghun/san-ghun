@@ -4,6 +4,10 @@ Software Engineer; Husband; Butler of two cats;
 - A geek who loves to observe and conduct thought experiments.
 - A person who likes to dig complex, make simple, and execute.
 - An engineer who tries to commit, review failure, refactor wtf, and Be Stronger.
+
+Apes, together, strong
+Human, lots of gunz, Stronger
+Geek, config failure, even Stronger
 -->
 <pre>
 root@san-ghun:~# whoami
