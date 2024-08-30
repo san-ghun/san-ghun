@@ -93,7 +93,7 @@ root@san-ghun:~# █
 |:-:|:-:|
 -->
 ```sh
-Apes:/$ ./together > Strong   
+Apes:/$ ./together > Strong
 Humans:~$ ./thinks >> Strong
 Geeks:~$ ./failure >> Stronger
 
