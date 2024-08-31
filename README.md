@@ -6,8 +6,9 @@ Software Engineer; Husband; Butler of two cats;
 - An engineer who tries to commit, review failure, refactor wtf, and Be Stronger.
 
 Apes, together, strong
-Human, lots of gunz, Stronger
-Geek, config failure, even Stronger
+Human, lots of gunz, stronger
+Devs, test failure, even Stronger
+Geek, config failure, even More Stronger
 -->
 <pre>
 root@san-ghun:~# whoami
