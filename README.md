@@ -1,17 +1,39 @@
 ## whoami
-<!--
+
 Software Engineer; Husband; Butler of two cats;
+<!--
 - A geek who loves to observe and conduct thought experiments.
 - A person who likes to dig complex, make simple, and execute.
-- An engineer who tries to commit, review failure, refactor wtf, and Be Stronger.
+- An engineer who commits, reviews failure, refactors wtf, and Be Stronger.
 
 Apes, together, strong
 Human, lots of gunz, stronger
 Devs, test failure, even Stronger
 Geek, config failure, even More Stronger
 -->
+I build things.
+
+| [![san-ghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) | [![san-ghun's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san-ghun&layout=compact&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) |
+|:-:|:-:|
+<!--
+| [![sanghupa's 42 stats](https://badge.mediaplus.ma/darkblue/sanghupa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) | [![@san-ghun Astro contributions](https://astro.badg.es/v2/contributor/san-ghun.svg)](https://astro.badg.es/contributor/san-ghun/) |
+|:-:|:-:|
+-->
+```sh
+Apes:/$ ./together > strong
+Humans:~$ ./thinks >> Strong
+Geeks:~$ ./failure >> Stronger
+
+root:/dev$ ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
+```
+
+![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
+
+<details>
+ <summary><pre>root@san-ghun:~# whoami █</pre></summary>
+
 <pre>
-root@san-ghun:~# whoami
+<!-- root@san-ghun:~# whoami -->
 
 ───│ Hey, Devs and Geeks. ├─────▰▰▰
 
@@ -91,18 +113,4 @@ root@san-ghun:~# whoami
 root@san-ghun:~# █
 </pre>
 
-| [![san-ghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) | [![san-ghun's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san-ghun&layout=compact&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) |
-|:-:|:-:|
-<!--
-| [![sanghupa's 42 stats](https://badge.mediaplus.ma/darkblue/sanghupa?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) | [![@san-ghun Astro contributions](https://astro.badg.es/v2/contributor/san-ghun.svg)](https://astro.badg.es/contributor/san-ghun/) |
-|:-:|:-:|
--->
-```sh
-Apes:/$ ./together > Strong
-Humans:~$ ./thinks >> Strong
-Geeks:~$ ./failure >> Stronger
-
-root:/dev$ ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
-```
-
-![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
+</details>
