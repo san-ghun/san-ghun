@@ -74,7 +74,7 @@ root:/dev$ ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 │
 ├─◈ <a href="https://github.com/san-ghun/astro-pico/">AstroPico</a>, Minimal Astro Theme
 ├─◈ <a href="https://github.com/san-ghun/Home-Poker-Table/">Home Poker Table</a>, Chip Calculator for iOS
-├─◈ <a href="https://github.com/san-ghunJustThree/">Just Three</a>, Focused To-Do app for iOS
+├─◈ <a href="https://github.com/san-ghun/JustThree/">Just Three</a>, Focused To-Do app for iOS
 │
 └───────────────────────────────▰▰▰
 <!--
