@@ -24,7 +24,7 @@ Apes:/$ ./together > strong
 Humans:~$ ./thinks >> Strong
 Geeks:~$ ./failure >> Stronger
 
-root:/dev$ ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
+root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
@@ -45,7 +45,7 @@ root:/dev$ ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 ├─▣ Looking to Collaborate on Building Fun & Useful & Meaningful Things
 ├─▣ Currently, ...
 │ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun messing with pointers in C.
-│ └─◈ working on Building an <a href="https://astro.build/">Astro</a> Theme, Setting up my HomeLab, and 42 Berlin projects.
+│ └─◈ working on Building CLI app using Go(golang), Setting up my HomeLab, and 42 Berlin projects.
 │
 ├─▣ A geek who loves to observe and conduct thought experiments.
 │
