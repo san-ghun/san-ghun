@@ -11,7 +11,7 @@ Human, lots of gunz, stronger
 Devs, test failure, even Stronger
 Geek, config failure, even More Stronger
 -->
-I build things.
+I build things and blobs.
 
 | [![san-ghun's GitHub stats](https://github-readme-stats.vercel.app/api?username=san-ghun&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) | [![san-ghun's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=san-ghun&layout=compact&hide_border=true&theme=dark)](https://github.com/san-ghun?tab=repositories) |
 |:-:|:-:|
