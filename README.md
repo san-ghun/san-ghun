@@ -65,6 +65,8 @@ root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 │ └─◈ Git, Docker, VSCode, XCode, Warp
 ├─▣ <b>Terminal</b>:
 │ └─◈ zsh, nvim, tmux, make, gdb
+├─▣ <b>AI tool</b>:
+│ └─◈ ChatGPT 4o, Claude 3.5 Sonnet, Perplexity
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
