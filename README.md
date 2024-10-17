@@ -1,6 +1,6 @@
 ## whoami
 
-Software Engineer; Husband; Butler of two cats + 1; Dosenöffner;
+Software Engineer; Husband; Butler of three cats; Dosenöffner;
 <!--
 - A geek who loves to observe and conduct thought experiments.
 - A person who likes to dig complex, make simple, and execute.
