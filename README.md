@@ -27,6 +27,25 @@ Geeks:~$ ./failure >> Stronger
 root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 ```
 
+```python
+"""
+Relentless Incremental Progress
+- Can stop, but never give up.
+- Stay strong, and keep it on.
+"""
+ratio = 1.00                # ratio of improvement
+const = 365                 # const of consistency
+
+ratio = 1.01
+at_better = ratio ** const  # 37.7834 => 3700% (38x)
+
+ratio = 1.02
+at_best = ratio ** const    # 1377.4089 => 137700% (1378x)
+
+ratio = 1.001
+at_least = ratio ** const   # 1.4402 => 144% (2.x)
+```
+
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
 
 <details>
