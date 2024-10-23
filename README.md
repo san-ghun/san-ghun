@@ -46,6 +46,8 @@ at_best = ratio ** const    # 1377.4089 => 137700% (1378x)
 
 ratio = 1.001
 at_least = ratio ** const   # 1.4402 => 144% (2.x)
+
+# TODO: Align speed and direction to a constant orbit.
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
