@@ -36,6 +36,7 @@ Relentless Incremental Progress
 """
 ratio = 1.00                # ratio of improvement
 const = 365                 # const of consistency
+rvalue = true               # relentless value
 
 ratio = 1.01
 at_better = ratio ** const  # 37.7834 => 3700% (38x)
