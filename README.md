@@ -64,11 +64,14 @@ at_least = ratio ** const   # 1.4402 => 144% (2.x)
 │
 ├─▣ A Programmer (who cannot make a living with code, yet?)
 ├─▣ Like to dig into complex problems, make those simple, and find executable yet more efficient solutions.
-├─▣ Interested in Building tools for my own usage, with Machine Learning & Web Scraping & CLI & API.
+├─▣ Interested in Building tools for own usage, with Machine Learning & Web Scraping & CLI & API.
 ├─▣ Looking to Collaborate on Building Fun & Useful & Meaningful Things
 ├─▣ Currently, ...
 │ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun messing with pointers in C.
-│ └─◈ working on Building CLI app using Go(golang), Setting up my HomeLab, and 42 Berlin projects.
+│ ├─◈ working on Building CLI apps and tools using Python & Deno & Go(golang).
+│ └─◈ setting up my HomeLab with my old friends ... (those cannot run macOS anymore)
+│   └─◈ an old mid-2010 21.5 iMac running Ubuntu 24.04 LTS
+│   └─◈ an old 2014 Mac mini running Proxmox
 │
 ├─▣ A geek who loves to observe and conduct thought experiments.
 │
@@ -79,17 +82,17 @@ at_least = ratio ** const   # 1.4402 => 144% (2.x)
 ├─▣ <b>Programming Language</b>:
 │ └─◈ C, C++, Swift, Go (Golang), Python, JavaScript
 ├─▣ <b>Web Technology</b>:
-│ └─◈ HTML, CSS, React, Node.js, Socket.IO, Astro
+│ └─◈ HTML, CSS, React, Node.js, Deno, Socket.IO, Astro
 ├─▣ <b>Database</b>:
 │ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
 ├─▣ <b>Platform</b>:
-│ └─◈ GitHub, AWS, CloudFlare, Apple Developer
+│ └─◈ GitHub, AWS, CloudFlare, Fly.io, Apple Developer
 ├─▣ <b>Tool</b>:
 │ └─◈ Git, Docker, VSCode, XCode, Warp
 ├─▣ <b>Terminal</b>:
 │ └─◈ zsh, nvim, tmux, make, gdb
 ├─▣ <b>AI tool</b>:
-│ └─◈ ChatGPT 4o, Claude 3.5 Sonnet, Perplexity
+│ └─◈ ChatGPT, Claude, Perplexity, Liner, cursor
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
@@ -115,7 +118,7 @@ at_least = ratio ** const   # 1.4402 => 144% (2.x)
 ├─◈ <a href="https://github.com/san-ghun">push_swap</a>
 ├─◈ <a href="https://github.com/san-ghun">Philosophers</a>
 ├─◈ <a href="https://github.com/san-ghun">minishell</a>
-├─◈ <a href="https://github.com/san-ghun">Cub3D</a>
+├─◈ <a href="https://github.com/san-ghun">miniRT</a>
 ├─◈ <a href="https://github.com/san-ghun">CPP_Modules</a>
 ├─◈ <a href="https://github.com/san-ghun">Webserv</a>
 ├─◈ <a href="https://github.com/san-ghun">ft_transcendence</a>
