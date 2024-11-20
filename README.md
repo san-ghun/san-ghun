@@ -30,9 +30,9 @@ root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 ```python
 """
 Relentless Incremental Progress
+- Enjoy, it will never escape.
 - Can stop, but never give up.
 - Stay strong, and keep it on.
-- Enjoy it, if will not escape.
 """
 ratio = 1.00                # ratio of improvement
 const = 365                 # const of consistency
@@ -48,8 +48,8 @@ ratio = 1.001
 at_least = ratio ** const   # 1.4402 => 144% (2.x)
 
 # TODO: Align speed and direction to a constant orbit.
-# TODO: Plan, Execute, Record, and keep momentum.
-# TODO: Review, Debug, Trace, and make systematic.
+# TODO: Plan, Execute, Record, and Keep the Momentum.
+# TODO: Review, Debug, Trace, and Make Systematic.
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
