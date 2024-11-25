@@ -32,7 +32,7 @@ root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
 Relentless Incremental Progress
 - Enjoy, it will never escape.
 - Can stop, but never give up.
-- Stay strong, and keep it on.
+- Stay strong, and keep going.
 """
 ratio = 1.00                # ratio of improvement
 const = 365                 # const of consistency
