@@ -82,19 +82,19 @@ at_least = ratio ** const   # 1.4402 => 144% (2.x)
 ┌──┤ SKILLS ├───────▰▰▰
 │
 ├─▣ <b>Programming Language</b>:
-│ └─◈ C, C++, Swift, Go (Golang), Python, JavaScript
+│ └─◈ C, C++, Swift, Go (Golang), Python, JavaScript, TypeScript
 ├─▣ <b>Web Technology</b>:
 │ └─◈ HTML, CSS, React, Node.js, Deno, Socket.IO, Astro
 ├─▣ <b>Database</b>:
 │ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
 ├─▣ <b>Platform</b>:
 │ └─◈ GitHub, AWS, CloudFlare, Fly.io, Apple Developer
-├─▣ <b>Tool</b>:
-│ └─◈ Git, Docker, VSCode, XCode, Warp
 ├─▣ <b>Terminal</b>:
 │ └─◈ zsh, nvim, tmux, make, gdb
+├─▣ <b>Tool</b>:
+│ └─◈ Git, Docker, VSCode, XCode, Warp, n8n
 ├─▣ <b>AI tool</b>:
-│ └─◈ ChatGPT, Claude, Perplexity, Liner, cursor
+│ └─◈ ChatGPT, Claude, Perplexity, Liner, Cursor
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
