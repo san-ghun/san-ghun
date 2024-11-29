@@ -53,6 +53,7 @@ at_least = (1 + ratio) ** const   # 1.4402 => 144% (2.4x)
 # TODO: Align speed and direction to a constant orbit.
 # TODO: Plan, Execute, Record, and Keep the Momentum.
 # TODO: Review, Debug, Trace, and Make Systematic.
+# NOTE: Keep up, and no fuck up.
 ```
 
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
