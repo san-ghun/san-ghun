@@ -106,6 +106,8 @@ at_least = (1 + ratio) ** const   # 1.4402 => 144% (2.4x)
 
 ┌──┤ PUBLISHED PROJECTS ├───────▰▰▰
 │
+├─◈ <a href="https://github.com/san-ghun/ywfm/">ywfm</a>, "You're welcome, future me!", CLI reminder tool for macOS and Linux
+├─◈ <a href="https://github.com/san-ghun/tiny42/">tiny42</a>, Portable 42 environment for Mac users
 ├─◈ <a href="https://github.com/san-ghun/astro-pico/">AstroPico</a>, Minimal Astro Theme
 ├─◈ <a href="https://github.com/san-ghun/Home-Poker-Table/">Home Poker Table</a>, Chip Calculator for iOS
 ├─◈ <a href="https://github.com/san-ghun/JustThree/">Just Three</a>, Focused To-Do app for iOS
