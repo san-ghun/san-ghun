@@ -10,6 +10,7 @@ Apes, together, strong
 Human, lots of gunz, stronger
 Devs, test failure, even Stronger
 Geek, config failure, even More Stronger
+Leader, innovate, Strongest
 -->
 I build things and blobs.
 
@@ -26,7 +27,8 @@ Apes:/$ ./together > strong
 Humans:~$ ./thinks >> Strong
 Geeks:~$ ./failure >> Stronger
 
-root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger
+root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger;
+root:/dev# ./test --auto | ./deploy --success | .monitor --feedback > Strongest;
 ```
 
 ```python
