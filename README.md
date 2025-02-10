@@ -1,6 +1,6 @@
 ## whoami
 
-Software Developer; Data Enthusiast(former Data Analyst); Husband; Butler of three cats; Dosenöffner;
+Programmer; Data Enthusiast; Software Developer; Husband; Butler of three cats; Dosenöffner;
 <!--
 - A geek who loves to observe and conduct thought experiments.
 - A person who likes to dig complex, make simple, and execute.
