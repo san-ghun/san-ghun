@@ -14,15 +14,6 @@ Leader, innovate, Strongest
 -->
 I build things and blobs.
 
-```sh
-Apes:/$ ./together > strong
-Humans:~$ ./thinks >> Strong
-Geeks:~$ ./failure >> Stronger
-
-root:/dev# ./do --commit | ./review --failure | ./refactor --wtf >> Stronger;
-root:/dev# ./test --auto | ./deploy --success | ./monitor --feedback > Strongest;
-```
-
 ![](https://gh-hits.nomadcoders.workers.dev/view?username=san-ghun&cache)
 
 <details>
