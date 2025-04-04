@@ -1,0 +1,8 @@
+#theme = "catppuccin-mocha"
+theme = "Dracula"
+#theme = "detuned"
+
+#font-family = "D2Coding"
+font-family = "JetBrains Mono"
+
+keybind = cmd+alt+enter=toggle_quick_terminal
