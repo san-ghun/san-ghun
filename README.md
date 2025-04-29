@@ -45,8 +45,31 @@ I build things and blobs.
 ┌──┤ SKILLS ├───────▰▰▰
 │
 ├─▣ <b>Programming Language</b>:
-│ └─◈ C, C++, Swift, Go (Golang), Python, JavaScript, TypeScript
+│ └─◈ C, Python, JavaScript
 ├─▣ <b>Web Technology</b>:
+│ └─◈ Astro
+├─▣ <b>Database</b>:
+│ └─◈ MySQL, MongoDB, SQLite
+├─▣ <b>Platform</b>:
+│ └─◈ GitHub, AWS, Fly.io
+├─▣ <b>Tool</b>:
+│ └─◈ Git, Docker
+│
+├─▣ <b>Interest</b>:
+│ ├─◈ CLI, Backend, Programming
+│ └─◈ Test-driven development (TDD), Domain-driven design (DDD), Service-oriented architecture (SOA)
+├─▣ <b>Currently Learning</b>:
+│ └─◈ Kotlin (Backend), Golang (CLI),
+│
+├─▣ Speak German, English Better, Korean Best.
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ TOOLS ├───────▰▰▰
+│
+├─▣ <b>Programming Language</b>:
+│ └─◈ C, C++, Swift, Kotlin, Golang, Python, JavaScript, TypeScript
+├─▣ <b>Web</b>:
 │ └─◈ HTML, CSS, React, Node.js, Deno, Socket.IO, Astro
 ├─▣ <b>Database</b>:
 │ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
@@ -55,11 +78,9 @@ I build things and blobs.
 ├─▣ <b>Terminal</b>:
 │ └─◈ zsh, nvim, tmux, make, gdb
 ├─▣ <b>Tool</b>:
-│ └─◈ Git, Docker, VSCode, XCode, Warp, n8n
+│ └─◈ Git, Docker, IntelliJ IDEA, XCode, VSCode, Cursor, Warp, n8n
 ├─▣ <b>AI tool</b>:
-│ └─◈ ChatGPT, Claude, Perplexity, Liner, Cursor
-│
-├─▣ Speak German, English Better, Korean Best.
+│ └─◈ ChatGPT, Claude, Perplexity, Liner
 │
 └───────────────────────────────▰▰▰
 
