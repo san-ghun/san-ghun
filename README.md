@@ -58,6 +58,7 @@ I build things and blobs.
 ├─▣ <b>Interest</b>:
 │ ├─◈ CLI, Backend, Programming
 │ └─◈ Test-driven development (TDD), Domain-driven design (DDD), Service-oriented architecture (SOA)
+│
 ├─▣ <b>Currently Learning</b>:
 │ └─◈ Kotlin (Backend), Golang (CLI),
 │
@@ -65,11 +66,11 @@ I build things and blobs.
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ TOOLS ├───────▰▰▰
+┌──┤ MENTIONABLES ├───────▰▰▰
 │
 ├─▣ <b>Programming Language</b>:
 │ └─◈ C, C++, Swift, Kotlin, Golang, Python, JavaScript, TypeScript
-├─▣ <b>Web</b>:
+├─▣ <b>Web Technology</b>:
 │ └─◈ HTML, CSS, React, Node.js, Deno, Socket.IO, Astro
 ├─▣ <b>Database</b>:
 │ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
