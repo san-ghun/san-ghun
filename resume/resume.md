@@ -21,10 +21,10 @@ Backend-focused software engineer with a diverse programming background and a de
 ---
 ### Course & Team Project Experience
 
-#### Team Project – Healthy Meal eCommerce Backend System
-
 **Backend Developer** | Kotlin, Spring Boot, JPA, PostgreSQL, AWS  
 _Final project – Backend Engineering Course (2025)_
+
+**Team Project** – Healthy Meal eCommerce Backend System
 
 **Responsibilities:**
 - Led MVP development from initial concept through delivery
