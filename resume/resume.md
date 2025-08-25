@@ -21,7 +21,7 @@ Backend-focused software engineer with a diverse programming background and a de
 ---
 ### Course & Team Project Experience
 
-**Backend Developer** | Kotlin, Spring Boot, JPA, PostgreSQL, AWS  
+**Backend Developer** | Kotlin, TDD, OOP, FP, Spring Boot, JDBC, JPA, SQL, AWS  
 _Final project – Backend Engineering Course (2025)_
 
 **Team Project** – Healthy Meal eCommerce Backend System
