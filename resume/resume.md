@@ -45,12 +45,12 @@ _Final project – Backend Engineering Course (2025)_
 ---
 ### Professional Strengths
 
-- **Adaptable Engineer:** Quick learner with ability to rapidly grasp new technologies and frameworks.
+- **Adaptable Engineer:** Quick learner with ability to rapidly grasp new technologies and frameworks
 - **Systems Thinker:** Pursues clarity, structure, and long-term maintainability in software design
-- **Collaborative Communicator:** Known for respectful, solution-oriented team collaboration
-- **Project-Based Learner:** Builds real-world projects to apply and internalize technical concepts
+- **Collaborative Communicator:** Known for respectful, solution-oriented team learning collaboration
+- **Reliable Collaborator**: Deadline-driven with strong dedication and work ethic
 - **Philosophical & Product-Minded:** Balances deep thought with pragmatic, user-focused development
-- **Growth-Oriented:** Actively working to strengthen database design and production deployment experience
+- **Detail-Oriented:** Active problem solver who proactively seeks and applies feedback to improve work
 
 ---
 ### Professional Experience
