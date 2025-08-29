@@ -25,7 +25,7 @@ Team intro
 		- server is located in south korea region
 		- our location is Berlin, Germany
 	- knowledge
-		- we've just learned about Kotlin & Spring Framework
+		- we've just learned about Kotlin & Spring Framework & AWS
 	- communication
 		- new beginning with new team members
 
