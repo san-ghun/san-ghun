@@ -1,28 +1,33 @@
+## Introduction
 
-- Introduction
-	- Team intro (San) 3m
-		- what the project is about
-			- eCommerce for healthy meal ordering service
-			- problem to solve
-				- keep motivation of  healthy diet up for members using streak count with achievement and coupon system
-			- how to solve
-				- gamification concept reference from the global language learning service Duolingo
-				- provide definition of ...
-					- freedom-day & normal-day
-					- streak count
-			- purpose of this project
-				- apply everything we've learned through hero tech course and utilize every resource that we've provided
-				- promote and advertise our team and each team members to audience 
-		- constraints
-			- time
-				- 20 days to complete the mission
-			- location
-				- server is located in south korea region
-				- our location is Berlin, Germany
-			- knowledge
-				- we've just learned about Kotlin & Spring Framework
-			- communication
-				- new beginning with new team members
+Prolog
+- before we start if there are person whose name is Bob, wanna say thank you thanks for inspiration. without you we dont have this presentation. thank you and please nothing personal my friend nothing personal
+
+Team intro 
+- Bod
+	- the story of our team bass start with a person whose name is … Bob Bob recently realized that he had junk food a lot in last days. He felt uncomfortable with it and want to change his diet. also he is expecting some athletic events like marathon cycling and swimming so he want to serve himself better. all he need is extra motivation to keep his diet. this is where BASS comes in.
+- what the project is about
+	- eCommerce for healthy meal ordering service
+- problem to solve
+	- keep motivation of  healthy diet up for members using streak count with achievement and coupon system
+- how to solve
+	- gamification concept reference from the global language learning service Duolingo
+	- provide definition of ...
+		- freedom-day & normal-day
+		- streak count
+- purpose of this project
+	- apply everything we've learned through hero tech course and utilize every resource that we've provided
+	- promote and advertise our team and each team members to audience 
+- constraints
+	- time
+		- 20 days to complete the mission
+	- location
+		- server is located in south korea region
+		- our location is Berlin, Germany
+	- knowledge
+		- we've just learned about Kotlin & Spring Framework
+	- communication
+		- new beginning with new team members
 
 ---
 
@@ -41,7 +46,7 @@
 | Docs             | SpringDoc + Swagger-UI           |
 | Build Tool       | Gradle                           |
 
-## 🧠 Notable Design Decisions & Trade-offs
+## 🧠 Mentionable Design Decisions & Trade-offs
 
 ### 1. **Why Liquibase + PostgreSQL**
 
@@ -101,23 +106,23 @@ We use `java.time.Instant` for timestamps instead of `LocalDateTime`.
 
 ---
 
-- Production & Performance
-	- brief mention on CI/CD pipeline
-		- PR proposed to `main` GitHub Action run lint check & build & test for CI
-			- team can check any issue from lint & build & test
-		- PR merged into `main` branch
-		- pre-configured Webhook is triggered to source our codebase to AWS CodePipeline
-		- AWS CodePipeline process through AWS CodeBuild and AWS CodeDeploy
-		- CodeDeploy to our 2 instances in-place
-	- logging, monitoring, https, custom domain
-		- currently, logging is managed by checking `docker logs` command
-		- monitoring is on 
-	- performance challenges
-		- physical constraints
-			- physical distance from south korea to germany
-			- CDN
-			- Cache
-			- Query tuning
-		- improvement
-			- before index, after index
+## Production & Performance
+- brief mention on CI/CD pipeline
+	- PR proposed to `main` GitHub Action run lint check & build & test for CI
+		- team can check any issue from lint & build & test
+	- PR merged into `main` branch
+	- pre-configured Webhook is triggered to source our codebase to AWS CodePipeline
+	- AWS CodePipeline process through AWS CodeBuild and AWS CodeDeploy
+	- CodeDeploy to our 2 instances in-place
+- logging, monitoring, https, custom domain
+	- currently, logging is managed by checking `docker logs` command
+	- monitoring is on AWS CloudWatch Dashboard
+- performance challenges
+	- physical constraints
+		- physical distance from south korea to germany
+		- CDN
+		- Cache
+		- Query tuning
+	- improvement
+		- before index, after index
 
