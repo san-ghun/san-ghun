@@ -11,14 +11,13 @@ Backend-focused software engineer with a diverse programming background and a de
 ---
 ### Technical Skills
 
-- **Programming Languages:** Kotlin, Python, Go, Swift, JavaScript
+- **Programming Languages:** Kotlin, Python, Go, Swift 
 - **Backend:** Spring Boot, Spring Framework, JPA (Hibernate), REST APIs
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Cloud & DevOps:** AWS EC2, AWS RDS, Load Balancer, GitHub Actions, Docker
 - **Architecture:** OOP, Functional Programming, TDD, DDD (in progress)
 - **Other:** Git, CLI tools, HTML/CSS, Jupyter, pandas
 
----
 ### Course & Team Project Experience
 
 **Backend Developer** | Kotlin, TDD, OOP, FP, Spring Boot, JDBC, JPA, SQL, AWS  
@@ -42,7 +41,6 @@ _Final project – Backend Engineering Course (2025)_
 
 **Tools & Tech:** Kotlin, Spring Boot, JPA, PostgreSQL, AWS EC2, RDS, GitHub Actions, Docker
 
----
 ### Professional Strengths
 
 - **Adaptable Engineer:** Quick learner with ability to rapidly grasp new technologies and frameworks
@@ -52,7 +50,6 @@ _Final project – Backend Engineering Course (2025)_
 - **Philosophical & Product-Minded:** Balances deep thought with pragmatic, user-focused development
 - **Detail-Oriented:** Active problem solver who proactively seeks and applies feedback to improve work
 
----
 ### Professional Experience
 
 **iOS Developer** — _HumanITsolution, Seoul_  
@@ -75,7 +72,6 @@ _Apr 2012 – Jan 2014_
 - Led a team of 6 in DMZ border operations
 - Maintained discipline, operational readiness, and strategic communication
 
----
 ### Projects
 
 **Just Three** — [GitHub](https://github.com/san-ghun/JustThree)
@@ -88,11 +84,10 @@ _Apr 2012 – Jan 2014_
 - 2,200+ downloads, solo-developed and published on the App Store  
     _(Apr 2022 – Jun 2022)_
 
----
 ### Education
 
 **42 Berlin (École 42)** — Computer Programming, Software Engineering  
-_Nov 2022 – Feb 2025 (Expected)_
+_Nov 2022 – Feb 2025_
 - Low-level systems, algorithms, UNIX, network architecture
 
 **Chung-Ang University** — Bachelor’s in Logistics  
@@ -100,18 +95,15 @@ _Mar 2011 – Feb 2018_
 - GPA: 3.56 / 4.5
 - Full 4-year merit scholarship
 
----
 ### Languages
 
 - **English** – C1
 - **German** – B1
 - **Korean** – Native
 
----
 ### Personal & Career Goals
 
 - Build expertise in backend and system architecture
 - Pursue to build product-focused engineering mindset
 - Focus on long-term impact and user-centered engineering
 
----
