@@ -1,6 +1,6 @@
 ## whoami
 
-Programmer; Data Enthusiast; Software Engineer;   
+Programmer; Data Enginner; Software Engineer;   
 Husband; Butler of three cats; Dosenöffner;   
 <!--
 - A geek who loves to observe and conduct thought experiments.
@@ -29,14 +29,16 @@ I build things and blobs.
 │
 ├─▣ A Programmer (who cannot make a living with code, yet?)
 ├─▣ Like to dig into complex problems, make those simple, and find executable yet more efficient solutions.
-├─▣ Interested in Building tools for own usage, with Machine Learning & Web Scraping & CLI & API.
+├─▣ Interested in Building tools for own usage, with CLI & Data Pipeline & Machine Learning & API.
 ├─▣ Looking to Collaborate on Building Fun & Useful & Meaningful Things
 ├─▣ Currently, ...
-│ ├─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I'm having fun messing with pointers in C.
-│ ├─◈ working on Building CLI apps and tools using Python & Deno & Go(golang).
+│ ├─◈ working as an intern data enginner at Deliver Hero SE.
+│ ├─◈ working on Building CLI apps and tools using Python & Go(golang).
 │ └─◈ setting up my HomeLab with my old friends ... (those cannot run macOS anymore)
 │   └─◈ an old mid-2010 21.5 iMac running Ubuntu 24.04 LTS
 │   └─◈ an old 2014 Mac mini running Proxmox
+├─▣ Was, ...
+│ └─◈ enrolled at <a href="https://42berlin.de/">42 Berlin</a>, where I had fun messing with pointers in C.
 │
 ├─▣ A geek who loves to observe and conduct thought experiments.
 │
@@ -45,22 +47,22 @@ I build things and blobs.
 ┌──┤ SKILLS ├───────▰▰▰
 │
 ├─▣ <b>Programming Language</b>:
-│ └─◈ C, Python, JavaScript
+│ └─◈ C, Python, Go(golang)
 ├─▣ <b>Web Technology</b>:
 │ └─◈ Astro
 ├─▣ <b>Database</b>:
-│ └─◈ MySQL, MongoDB, SQLite
+│ └─◈ BigQuery, PostgreSQL, MySQL, MongoDB, SQLite
 ├─▣ <b>Platform</b>:
-│ └─◈ GitHub, AWS, Fly.io
+│ └─◈ GitHub, AWS, GCP, Fly.io
 ├─▣ <b>Tool</b>:
-│ └─◈ Git, Docker
+│ └─◈ Git, Docker, Airflow
 │
 ├─▣ <b>Interest</b>:
-│ ├─◈ CLI, Backend, Programming
-│ └─◈ Test-driven development (TDD), Domain-driven design (DDD), Service-oriented architecture (SOA)
+│ ├─◈ Data Engineering, CLI, Backend, Programming
+│ └─◈ Systen Design, System Engineering, GTD (Get Things Done), Service-oriented architecture (SOA)
 │
 ├─▣ <b>Currently Learning</b>:
-│ └─◈ Kotlin (Backend), Golang (CLI),
+│ └─◈ SQL (Data Enginnering), Kotlin (Backend), Go (CLI),
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
@@ -73,15 +75,15 @@ I build things and blobs.
 ├─▣ <b>Web Technology</b>:
 │ └─◈ HTML, CSS, React, Node.js, Deno, Socket.IO, Astro
 ├─▣ <b>Database</b>:
-│ └─◈ MySQL, PostgreSQL, MongoDB, SQLite
+│ └─◈ MySQL, PostgreSQL, MongoDB, SQLite, BigQuery
 ├─▣ <b>Platform</b>:
-│ └─◈ GitHub, AWS, CloudFlare, Fly.io, Apple Developer
+│ └─◈ GitHub, AWS, GCP, CloudFlare, Fly.io, Apple Developer
 ├─▣ <b>Terminal</b>:
 │ └─◈ zsh, nvim, tmux, make, gdb
 ├─▣ <b>Tool</b>:
-│ └─◈ Git, Docker, IntelliJ IDEA, XCode, VSCode, Cursor, Warp, n8n
+│ └─◈ Git, Docker, IntelliJ IDEA, XCode, VSCode, Ghostty, Antigravity
 ├─▣ <b>AI tool</b>:
-│ └─◈ ChatGPT, Claude, Perplexity, Liner
+│ └─◈ ChatGPT, Gemini, Claude, Perplexity
 │
 └───────────────────────────────▰▰▰
 
