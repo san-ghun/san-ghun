@@ -119,7 +119,7 @@ I build things and blobs.
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://www.linkedin.com/in/san-ghun">LinkedIn</a>
-├─◈ <a href="https://x.com/microblobdotdev">Twitter|X</a>
+├─◈ <a href="https://x.com/thesandotdev">Twitter|X</a>
 │
 └───────────────────────────────▰▰▰
 <!--
