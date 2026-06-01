@@ -1,6 +1,6 @@
 ## whoami
 
-Programmer; Data Enginner; Software Engineer;   
+Programmer; Data Enginner; Software Developer;   
 Husband; Butler of three cats; Dosenöffner;   
 <!--
 - A geek who loves to observe and conduct thought experiments.
@@ -32,7 +32,7 @@ I build things and blobs.
 ├─▣ Interested in Building tools for own usage, with CLI & Data Pipeline & Machine Learning & API.
 ├─▣ Looking to Collaborate on Building Fun & Useful & Meaningful Things
 ├─▣ Currently, ...
-│ ├─◈ working as an intern data enginner at Deliver Hero SE.
+│ ├─◈ working as a data enginner at Deliver Hero SE.
 │ ├─◈ working on Building CLI apps and tools using Python & Go(golang).
 │ └─◈ setting up my HomeLab with my old friends ... (those cannot run macOS anymore)
 │   └─◈ an old mid-2010 21.5 iMac running Ubuntu 24.04 LTS
@@ -47,7 +47,7 @@ I build things and blobs.
 ┌──┤ SKILLS ├───────▰▰▰
 │
 ├─▣ <b>Programming Language</b>:
-│ └─◈ C, Python, Go(golang)
+│ └─◈ C, Python, Go(golang), Kotlin
 ├─▣ <b>Web Technology</b>:
 │ └─◈ Astro
 ├─▣ <b>Database</b>:
@@ -59,10 +59,10 @@ I build things and blobs.
 │
 ├─▣ <b>Interest</b>:
 │ ├─◈ Data Engineering, CLI, Backend, Programming
-│ └─◈ Systen Design, System Engineering, GTD (Get Things Done), Service-oriented architecture (SOA)
+│ └─◈ Systen Design, System Engineering, GTD (Get Things Done)
 │
 ├─▣ <b>Currently Learning</b>:
-│ └─◈ SQL (Data Enginnering), Kotlin (Backend), Go (CLI),
+│ └─◈ SQL (Data Enginnering), Terraform
 │
 ├─▣ Speak German, English Better, Korean Best.
 │
